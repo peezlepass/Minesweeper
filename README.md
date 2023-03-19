@@ -2,7 +2,7 @@
 
 ## Installation
 
-You can install it by doing all the work with cloning the repository to your local machine => npm install and then =>  npm start, but who am I kidding, you probably won't go through all that trouble, so here is a <a href="https://peezlepass.com/minesweeper">deployed version for you </a>.
+You can install it by doing all the work with cloning the repository to your local machine => npm install and then =>  npm start, but who am I kidding, you probably won't go through all that trouble, so here is a <a href="https://peezlepass.com/minesweeper">deployed version for you. </a>
 
 This repository is frontend only, without the database, score table, or authentication. I actually have a more complex repo that includes all these features, which you can find <a href="https://github.com/bad-black-neko/final-project">here</a>. However, I understand that users can be hesitant to register, and without registering, there's no way to display the score table. So, to simplify things, this version only includes the game itself. Just you and the game. Win or lose. It's that simple.
 
@@ -30,4 +30,4 @@ This repository is frontend only, without the database, score table, or authenti
 * Timer to keep track of your progress.
 * Emojis for fun.
 * The Queen itself - recursion! for opening empty cells.
-* Deployment - l would literally built a personalised monument to anyone who can deploy, so hell yeah! It’s a cool feature I am incredibly proud of. It probably took me longer than recursion lol.
+* Deployment - l would literally built a personalised monument to anyone who can deploy, so hell yeah! It’s a cool feature I am incredibly proud of. It probably took me longer than recursion lol. (https://peezlepass.com/minesweeper)
