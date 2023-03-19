@@ -31,3 +31,7 @@ This repository is frontend only, without the database, score table, or authenti
 * Emojis for fun.
 * The Queen itself - recursion! for opening empty cells.
 * Deployment - l would literally built a personalised monument to anyone who can deploy, so hell yeah! It’s a cool feature I am incredibly proud of. It probably took me longer than recursion lol. (https://peezlepass.com/minesweeper)
+
+## P.S.
+
+My personal record is 19 seconds for the Beginner difficulty. Let me know if you beat it!
