@@ -19,15 +19,15 @@ This repository is frontend only, without the database, score table, or authenti
 <p align="center">
   <img width="640" alt="flags" src="https://user-images.githubusercontent.com/104982744/226173337-370f733a-eeb5-4b43-945e-fae553a388fd.gif">
 </p>
-<li>Once you opened all not bombs cell - the clock will stop meaning that you won the game.</li>
+<li>Once you revealed all the safe cells - the clock will stop meaning that you won the game.</li>
 <p align="center">
   <img width="640" alt="win" src="https://user-images.githubusercontent.com/104982744/226172605-cfcc1f36-68b8-474f-98b6-f68a954941d8.gif">
 </p>
 
 ## Features
 
-<li>Two levels of difficulty: Beginner and Expert.</li>
-<li>Timer to keep track of your progress.</li>
-<li>Emojies for fun.</li>
-<li>The Queen itself - recursion! for opening empty cells.</li>
-<li>Deployment - l would literally built a personalised monument to anyone who can deploy, so fuck yeah! It’s a cool feature I am incredibly proud of. Probably it took me longer than a recursion lol.</li>
+* Two levels of difficulty: Beginner and Expert.
+* Timer to keep track of your progress.
+* Emojis for fun.
+* The Queen itself - recursion! for opening empty cells.
+* Deployment - l would literally built a personalised monument to anyone who can deploy, so hell yeah! It’s a cool feature I am incredibly proud of. It probably took me longer than recursion lol.
