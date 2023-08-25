@@ -21,7 +21,7 @@ export default function Restart({ mood, dispatch }) {
       onMouseDown={() => setPressed(true)}
       onMouseUp={() => setPressed(false)}
       onClick={handleClick}
-      className="w-20 h-20 bg-empty-cell-color border-8 ring-4 ring-restart-border text-6xl flex items-center justify-center"
+      className="w-20 h-20 phone:w-16 phone:h-16 bg-empty-cell-color border-8 phone:border-6 ring-4 ring-restart-border text-6xl phone:text-5xl flex items-center justify-center"
       style={{ borderStyle: pressed ? "inset" : "outset" }}
     >
       {text}

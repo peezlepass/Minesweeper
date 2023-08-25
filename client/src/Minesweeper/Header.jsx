@@ -4,7 +4,7 @@ import Restart from "./Restart";
 export default function Header({ leftCounter, rightCounter, dispatch, mood }) {
   return (
     <div
-      className="bg-empty-cell-color border-8 flex p-4 items-center justify-between"
+      className="bg-empty-cell-color border-8 flex p-4 phone:p-0 items-center justify-between"
       style={{ borderStyle: "inset" }}
     >
       <Counter number={leftCounter}></Counter>

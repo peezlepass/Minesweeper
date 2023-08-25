@@ -11,6 +11,7 @@ export default function Nine() {
         clipRule: "evenodd",
       }}
       viewBox="0 0 4.50183 8.61276"
+      className="phone:w-8 phone:h-16"
     >
       <rect fill="black" width="4.50183" height="8.61276" />
       <polygon

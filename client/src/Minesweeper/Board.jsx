@@ -41,7 +41,7 @@ export default function Board() {
     <>
       <div className="flex justify-center">
         {state.width === 9 ? (
-          <div className="flex flex-col justify-center px-8 w-96">
+          <div className="flex flex-col justify-center px-8 w-96 phone:hidden">
             {state.gameStatus === "ready" ? (
               <Instructions></Instructions>
             ) : null}
@@ -65,14 +65,14 @@ export default function Board() {
           ></Field>
         </div>
         {state.width === 9 ? (
-          <div className="flex flex-col justify-center px-8 w-96">
+          <div className="flex flex-col justify-center px-8 w-96 phone:hidden">
             {state.gameStatus === "won" ? (
               <WinnerMessage></WinnerMessage>
             ) : null}
           </div>
         ) : null}
       </div>
-      <div className="flex gap-x-4 text-witcher-gold justify-center py-4">
+      <div className="flex gap-x-4 text-witcher-gold justify-center py-4 phone:hidden">
         <button
           onClick={() => {
             dispatch({ type: "SET_DIFFICULTY", payload: "beginner" });

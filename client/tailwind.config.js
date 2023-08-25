@@ -2,6 +2,11 @@
 module.exports = {
   content: ["./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
+    screens: {
+      phone: {
+        max: "767px",
+      },
+    },
     extend: {
       backgroundImage: {
         minesweeper: "url('/public/img/windowsxp.jpeg')",
