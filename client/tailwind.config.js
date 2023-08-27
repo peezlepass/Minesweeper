@@ -34,6 +34,9 @@ module.exports = {
         "witcher-gold": "rgb(200, 194,173)",
         input: "#a8a29e",
       },
+      fontSize: {
+        "4-5xl": "2.74rem",
+      },
     },
   },
   plugins: [],

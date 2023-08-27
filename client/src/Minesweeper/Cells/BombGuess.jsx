@@ -10,7 +10,7 @@ export default function BombGuess({ red, dispatch, index }) {
   return (
     <div
       onContextMenu={handleRightClick}
-      className={`w-14 h-14 phone:w-8 phone:h-8 ${background} border-8 phone:border-6 text-5xl phone:text-2xl flex items-center justify-center`}
+      className={`w-14 h-14 phone:w-8 phone:h-8 ${background} border-6 text-4-5xl phone:left-0 phone:text-2xl flex items-center justify-center `}
       style={{ borderStyle: "outset" }}
     >
       🚩
